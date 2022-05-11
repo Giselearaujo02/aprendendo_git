@@ -1,0 +1,5 @@
+# Query: O git é um sistema de versionamento de arquivos, ou seja : é uma ferramenta que nos permite ter o controle dos arquivos escritos, apagados e qualquer alteração feita. Alguns comandos principais como git status (saber o status do arquivo), teste.txt controlar alterações), git diff (mostra as alterações nos arquivos), git clone url (para obter a cópia de um arquivo existente) e git clone (para você contribuir em um projeto). Esses são alguns comandos vistos até aqui. 
+# Including: O git é um sistema de versionamento de arquivos, ou seja : é uma ferramenta que nos permite ter o controle dos arquivos escritos, apagados e qualquer alteração feita. Alguns comandos principais como git status (saber o status do arquivo), teste.txt controlar alterações), git diff (mostra as alterações nos arquivos), git clone url (para obter a cópia de um arquivo existente) e git clone (para você contribuir em um projeto). Esses são alguns comandos vistos até aqui. 
+# ContextLines: 1
+
+Nenhum Resultado
